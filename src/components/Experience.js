@@ -5,23 +5,23 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Willowbrook Highschool</i>, 2009-2012
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>Graduated with 3.0 GPA</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>Clever Programmer</i> - <strong>Blockchain Developer online course</strong>, 2019-2021
                     <ul>
                         <li>Studied DApp development</li>
                         <li>Assisted Research &amp; Development on Web3 Products</li>
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i>Dapp University</i> - <strong>Blockchain Developer Online course</strong>, 2021-2022
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        <li>Contributed/assisted to smart contract development on client's platform</li>
+                        <li>Peer reviewed &amp; </li>
                     </ul>
                 </li>
             </ul>
